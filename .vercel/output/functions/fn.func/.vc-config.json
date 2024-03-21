@@ -1,0 +1,10 @@
+{
+	"runtime": "nodejs20.x",
+	"handler": "..\\..\\..\\..\\..\\..\\OneDrive\\AHI\\00 codes\\00 work\\00 fastfix\\.svelte-kit\\vercel-tmp\\index.js",
+	"launcherType": "Nodejs",
+	"experimentalResponseStreaming": true,
+	"framework": {
+		"slug": "sveltekit",
+		"version": "2.5.4"
+	}
+}
